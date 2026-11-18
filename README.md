@@ -278,9 +278,9 @@ The project reinforced that **reliable AI application engineering extends beyond
 
 ## 👩🏻‍💻 Contributors
 
-**Wesal Al-Numani**
+**Layan Alomar**
 
-**Mashael Al-Mufleh**
+**Ghala Alomarn**
 
 ---
 

@@ -10,7 +10,7 @@
 
 **A bilingual public-service assistant developed through four cumulative engineering labs and four practical homework assignments.**
 
-**[Main Repository](https://github.com/WesalFadhl/Murshid-Wesal-Mashael) · [Complete Labs Notebook](Murshid_Labs_1-4.ipynb) · [SDAIA](https://sdaia.gov.sa/)**
+**[Complete Labs Notebook](Murshid_Labs_1-4.ipynb) · [SDAIA](https://sdaia.gov.sa/)**
 
 </div>
 
